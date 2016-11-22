@@ -1,0 +1,25 @@
+{
+  "name": "freefoodfinder",
+  "version": "1.0.0",
+  "description": "Twitter bot made to take data from emails and facebook to find free food events and post about them",
+  "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+        "test" : ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamiolaf/freefoodfinder.git"
+  },
+  "keywords": [
+    "food",
+    "free",
+    "events"
+  ],
+  "author": "Tami Olafunmiloye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamiolaf/freefoodfinder/issues"
+  },
+  "homepage": "https://github.com/tamiolaf/freefoodfinder#readme"
+}
